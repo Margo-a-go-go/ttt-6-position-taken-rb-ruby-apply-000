@@ -1,2 +1,2 @@
-def position_taken?(board, token)
+def position_taken?(board, index)
 end
